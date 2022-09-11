@@ -51,6 +51,8 @@ about_content: |
   of **Prof.** [**Hamid R. Rabiee**](http://sharif.edu/~rabiee/), where I was part of the **Machine Learning** team and worked on an AI-driven big data processing 
   platform that establishes methods on the data storage layer and distributed big data processing to facilitate predictive analytics. My research interests are 
   computer vision, privacy in machine learning, and robustness.
+  
+  
 
 content:
   # - title: Projects # Title for the section
@@ -80,6 +82,7 @@ content:
         title: Robust and Interpretable Deep Learning Laboratory
         sub_title: Research Assistant
         caption: June 2021 - September 2022
+        link: https://github.com/rohban-lab
         description: | 
           I worked on various techniques to train trustworthy vision transformers that are not readily affected by malicious perturbations.
       
@@ -95,16 +98,6 @@ content:
           I joined the **Machine Learning** team and helped design and implement a comprehensive preprocessing pipeline. To that end, I developed 
           several text processing features such as text spell correction, text normalization, and string obfuscation.
 
-     - layout: left
-        title: Intelligent Information Solutions Center
-        sub_title: Software Developer
-        caption: June 2019 - September 2019
-        description: | 
-          Intelligent Information Solutions Center works on a website that helps create domestic social networks. It allows companies, academic 
-          societies, and other social groups to create custom social networks to serve as alternatives to popular global platforms. I joined the 
-          Intelligent Information Solutions Center as a software developer and worked with the software maintenance team, where I helped improve 
-          the system’s functionality by designing new features and upgrading and repairing the software when needed.
-          
       - layout: left
         title: Sharif University of Technology
         sub_title: Teaching Assistant
@@ -125,19 +118,10 @@ content:
           
           **Fall 2020**
           - Linear Algebra, Prof. Hamid Reza Rabiee
-         
 
   - title: Education
     layout: list
     content:
-      - layout: left
-          title: University of Waterloo
-          sub_title: MMath in Computer Science
-          supervisor: [Gautam Kamath] (http://www.gautamkamath.com/)
-          caption: 2022-present
-          # quote: >
-          #   Short institution or course description (optional)
-
       - layout: left
         title: Sharif University of Technology
         sub_title: B.Sc. Computer Engineering
@@ -145,13 +129,25 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | 
-          GPA: 18.40/20
+          GPA: 18.43/20
 
           **Related courses**
 
-          artificial intelligence, linear algebra, machine learning,
-          data structures and algorithms, modern information retrieval,
+          Convolutional neural networks for visual recognition (audited, online Stanford),
+          artificial intelligence, linear algebra, data structures and algorithms, 
+          introduction to bioinformatics, modern information retrieval,
           design of algorithms, probability and statistics, discrete structures.
+      
+      - layout: left
+        title: Kherad highschool
+        sub_title: Diploma
+        caption: 2013-2017
+        # quote: >
+        # Short institution or course description (optional)
+        description: | 
+          I received my Diploma in Mathematics and Physics from [**Kherad highschool**](https://ir.linkedin.com/company/manzoumeh-kherad-institute),
+          where I was ranked 171th out of 350k students in Iranian nationwide mathematics
+          exam (Konkur).
 
   - title: A Little More About Me
     layout: text
