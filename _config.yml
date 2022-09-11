@@ -44,7 +44,7 @@ about_content: |
   **CV: [PDF](https://sabrinamokhtari.github.io/files/CV.pdf)**
 
   My name is Sabrina Mokhtari. I am currently a first-year **Master's** student at **University of Waterloo**, 
-  working under the supervision of **Prof.** [**Gautam Kamath**] (http://www.gautamkamath.com/). Previously, 
+  working under the supervision of **Prof.** [**Gautam Kamath**](http://www.gautamkamath.com/). Previously, 
   I was a **Computer Engineering** student at **Sharif University of Technology**, Where I worked as an undergrad 
   research assistant on improving the robustness of vision transformers under the supervision of **Prof.** [Mohammad Hossein Rohban](http://sharif.ir/~rohban/). 
   Before that, I worked as a **data engineer** at [**Wizeanalytics Startup**](https://www.linkedin.com/company/wizeanalytics/?originalSubdomain=ir) under the supervision
@@ -84,7 +84,8 @@ content:
         caption: June 2021 - September 2022
         link: https://github.com/rohban-lab
         description: | 
-          I worked on various techniques to train trustworthy vision transformers that are not readily affected by malicious perturbations.
+          I joined the Robust and Interpretable Deep Learning Laboratory to work on my bachelor's thesis under the supervision of **Prof.** [**Mohammad Hossein Rohban**](http://sharif.ir/~rohban/).
+          I worked on various techniques to train trustworthy vision transformers that are robust against adversarial attacks and that are not readily affected by malicious perturbations.
       
       - layout: left
         title: Wizeanalytics Startup
@@ -97,6 +98,16 @@ content:
           and enabled our platform to work with and analyze real-time data streaming by connecting the system to Apache Kafka. After my internship, 
           I joined the **Machine Learning** team and helped design and implement a comprehensive preprocessing pipeline. To that end, I developed 
           several text processing features such as text spell correction, text normalization, and string obfuscation.
+          
+      - layout: left
+        title: Intelligent Information Solutions Center
+        sub_title: Software Developer
+        caption: June 2019 - September 2019
+        description: | 
+          Intelligent Information Solutions Center works on a website that helps create domestic social networks. It allows companies, academic 
+          societies, and other social groups to create custom social networks to serve as alternatives to popular global platforms. I joined the 
+          Intelligent Information Solutions Center as a software developer and worked with the software maintenance team, where I helped improve 
+          the system’s functionality by designing new features and upgrading and repairing the software when needed.
 
       - layout: left
         title: Sharif University of Technology
@@ -123,20 +134,26 @@ content:
     layout: list
     content:
       - layout: left
+        title: University of Waterloo
+        sub_title: MMath in Computer Science
+        caption: 2022-Present
+        # quote: >
+        #   Short institution or course description (optional)
+          
+      - layout: left
         title: Sharif University of Technology
         sub_title: B.Sc. Computer Engineering
         caption: 2017-2022
         # quote: >
         #   Short institution or course description (optional)
         description: | 
-          GPA: 18.43/20
+          GPA: 18.40/20
 
           **Related courses**
 
-          Convolutional neural networks for visual recognition (audited, online Stanford),
-          artificial intelligence, linear algebra, data structures and algorithms, 
-          introduction to bioinformatics, modern information retrieval,
-          design of algorithms, probability and statistics, discrete structures.
+          Convolutional Neural Networks for Visual Recognition (audited, online Stanford),
+          Artificial Intelligence, Linear Algebra, Data Structures and Algorithms, 
+          Modern Information Retrieval, Design of Algorithms, Probability and Statistics, Discrete Structures.
       
       - layout: left
         title: Kherad highschool
