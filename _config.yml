@@ -43,8 +43,14 @@ about_profile_image: images/me.jpeg
 about_content: | 
   **CV: [PDF](https://sabrinamokhtari.github.io/files/CV.pdf)**
 
-  My name is Sabrina Mokhtari.  
-  
+  My name is Sabrina Mokhtari. I am currently a first-year **Master's** student at **University of Waterloo**, 
+  working under the supervision of **Prof.** [**Gautam Kamath**] (http://www.gautamkamath.com/). Previously, 
+  I was a **Computer Engineering** student at **Sharif University of Technology**, Where I worked as an undergrad 
+  research assistant on improving the robustness of vision transformers under the supervision of **Prof.** [Mohammad Hossein Rohban](http://sharif.ir/~rohban/). 
+  Before that, I worked as a **data engineer** at [**Wizeanalytics Startup**](https://www.linkedin.com/company/wizeanalytics/?originalSubdomain=ir) under the supervision
+  of **Prof.** [**Hamid R. Rabiee**](http://sharif.edu/~rabiee/), where I was part of the **Machine Learning** team and worked on an AI-driven big data processing 
+  platform that establishes methods on the data storage layer and distributed big data processing to facilitate predictive analytics. My research interests are 
+  computer vision, privacy in machine learning, and robustness.
 
 content:
   # - title: Projects # Title for the section
@@ -71,32 +77,34 @@ content:
     layout: list
     content:
       - layout: left
-        title: AI-Med
-        sub_title: R&D scientist
-        caption: April 2021 - present
-        link: https://aimed-sharif.ir/
+        title: Robust and Interpretable Deep Learning Laboratory
+        sub_title: Research Assistant
+        caption: June 2021 - September 2022
         description: | 
-          AI-Med is a multidisciplinary research consortium **utilizing artificial intelligence
-          technologies to improve the quality and accuracy of digital health services**.
-          since April 2021, I joined as **research and development scientist** here where
-          we have designed a wide-range of deep-learning experiments (via Pytorch) to provide
-          better **detection** and **localization** of abnormalities for **mammography screening**.
-          our methods have reached and even gone beyond the state-of-the-art algorithms on **public dataset (DDSM)**.
-          in order to maintain our results same for the **in-private dataset**, we are currently
-          developing **weakly-supervised methods** to more precisely label and generate ground-truth ROIs for them.
-          Moreover, we have designed several side tools to get real-time feedbacks from experienced radiologists for labeling. 
+          I worked on various techniques to train trustworthy vision transformers that are not readily affected by malicious perturbations.
       
       - layout: left
-        title: Sharif University of Technology
-        sub_title: Research Assistant
+        title: Wizeanalytics Startup
+        sub_title: Data Engineer
         caption: August 2020 - March 2021
         description: | 
-          I joined [**DML lab**](http://dml.ce.sharif.edu/dmlsite/) as a **Research assistant** where I was working
-          on the impact of **contrastive learning** approaches on **deep reinforcement-learning** algorithms.
-          to be more specific, I implemented [**CURL**](https://arxiv.org/pdf/2004.04136.pdf?ref=https://githubhelp.com) 
-          and [**SIMCLR**](https://arxiv.org/pdf/2002.05709.pdf) (via Pytorch) algorithms to improve movement of an agent
-          within Maze environment.
+          Wizeanalytics works on designing an AI-driven big data processing platform that establishes methods on the data storage layer and 
+          distributed big data processing to facilitate predictive analytics. I joined [**Wizeanalytics Startup**](https://www.linkedin.com/company/wizeanalytics/?originalSubdomain=ir) 
+          as an intern and primarily worked on BI systems. During my internship I worked on big data processing systems such as Apache Kafka 
+          and enabled our platform to work with and analyze real-time data streaming by connecting the system to Apache Kafka. After my internship, 
+          I joined the **Machine Learning** team and helped design and implement a comprehensive preprocessing pipeline. To that end, I developed 
+          several text processing features such as text spell correction, text normalization, and string obfuscation.
 
+     - layout: left
+        title: Intelligent Information Solutions Center
+        sub_title: Software Developer
+        caption: June 2019 - September 2019
+        description: | 
+          Intelligent Information Solutions Center works on a website that helps create domestic social networks. It allows companies, academic 
+          societies, and other social groups to create custom social networks to serve as alternatives to popular global platforms. I joined the 
+          Intelligent Information Solutions Center as a software developer and worked with the software maintenance team, where I helped improve 
+          the system’s functionality by designing new features and upgrading and repairing the software when needed.
+          
       - layout: left
         title: Sharif University of Technology
         sub_title: Teaching Assistant
@@ -106,40 +114,43 @@ content:
           faculty members of **computer engineering department**. all courses that I have contributed are listed below:
 
           **Spring 2021**
-          - Machine learning (M.Sc. course), Dr. Rohban
-          - Modern information retrival, Dr. Soleymani
+          - Database Design, Prof. Abbas Heydarnoori:
+          - Linear Algebra, Prof. Hamid Reza Rabiee
+          
+          
+          **Fall 2021**
+          - Systems Analysis and Design, Prof. Abbas Heydarnoori
+          - Artificial Intelligence, Prof. Mohammad Hossein Rohban
           
           
           **Fall 2020**
-          - Artificial intelligence, Dr. Rohban
-          - Linear algebra, Prof. Rabiee
-          
-          
-          **spring 2020**
-          - Computer architecture, Prof. Asadi
-          - Data structures and algorithms, Dr. Safarnejad broujeni
-          
-          
-          **spring 2019**
-          - Advanced programming, Mr. Hatami
+          - Linear Algebra, Prof. Hamid Reza Rabiee
+         
 
   - title: Education
     layout: list
     content:
+    - layout: left
+        title: University of Waterloo
+        sub_title: MMath in Computer Science
+        supervisor: [Gautam Kamath] (http://www.gautamkamath.com/)
+        caption: 2022-present
+        # quote: >
+        #   Short institution or course description (optional)
+        
       - layout: left
         title: Sharif University of Technology
         sub_title: B.Sc. Computer Engineering
-        caption: 2017-present
+        caption: 2017-2022
         # quote: >
         #   Short institution or course description (optional)
         description: | 
-          GPA: 17.90/20 (**last six semesters: 18.51/20**)
+          GPA: 18.40/20
 
           **Related courses**
 
-          Convolutional neural networks for visual recognition (audited, online Stanford),
-          machine learning (audited, online Stanford), artificial intelligence, linear algebra,
-          data structures and algorithms, introduction to bioinformatics, modern information retrieval,
+          artificial intelligence, linear algebra, machine learning,
+          data structures and algorithms, modern information retrieval,
           design of algorithms, probability and statistics, discrete structures.
 
   - title: A Little More About Me
@@ -147,6 +158,8 @@ content:
     content: | 
       Alongside my interests in science and technology, some of my other hobbies are:
         - Horseback Riding
+        - Basketball playing
+        - Random Walking:))
 ### Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
