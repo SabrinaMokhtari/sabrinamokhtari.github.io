@@ -130,14 +130,14 @@ content:
   - title: Education
     layout: list
     content:
-    - layout: left
-        title: University of Waterloo
-        sub_title: MMath in Computer Science
-        supervisor: [Gautam Kamath] (http://www.gautamkamath.com/)
-        caption: 2022-present
-        # quote: >
-        #   Short institution or course description (optional)
-        
+      - layout: left
+          title: University of Waterloo
+          sub_title: MMath in Computer Science
+          supervisor: [Gautam Kamath] (http://www.gautamkamath.com/)
+          caption: 2022-present
+          # quote: >
+          #   Short institution or course description (optional)
+
       - layout: left
         title: Sharif University of Technology
         sub_title: B.Sc. Computer Engineering
