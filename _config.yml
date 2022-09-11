@@ -84,8 +84,8 @@ content:
         caption: June 2021 - September 2022
         link: https://github.com/rohban-lab
         description: | 
-          I joined the Robust and Interpretable Deep Learning Laboratory to work on my bachelor's thesis under the supervision of **Prof.** [**Mohammad Hossein Rohban**](http://sharif.ir/~rohban/).
-          I worked on various techniques to train trustworthy vision transformers that are robust against adversarial attacks and that are not readily affected by malicious perturbations.
+          I joined the Robust and Interpretable Deep Learning Laboratory to work on my bachelor's thesis under the supervision of **Prof.** [**Mohammad Hossein Rohban**](http://sharif.ir/~rohban/),
+          where I worked on various techniques to train trustworthy vision transformers that are robust against adversarial attacks and that are not readily affected by malicious perturbations.
       
       - layout: left
         title: Wizeanalytics Startup
