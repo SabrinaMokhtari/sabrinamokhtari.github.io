@@ -43,10 +43,10 @@ about_profile_image: images/me.jpeg
 about_content: | 
   **CV: [PDF](https://sabrinamokhtari.github.io/files/CV.pdf)**
 
-  My name is Sabrina Mokhtari. I am currently a first-year **Master's** student at **University of Waterloo**, 
+  My name is Sabrina Mokhtari. I am incoming **Master's** student at **University of Waterloo**, 
   working under the supervision of **Prof.** [**Gautam Kamath**](http://www.gautamkamath.com/). Previously, 
   I was a **Computer Engineering** student at **Sharif University of Technology**, Where I worked as an undergrad 
-  research assistant on improving the robustness of vision transformers under the supervision of **Prof.** [Mohammad Hossein Rohban](http://sharif.ir/~rohban/). 
+  research assistant on improving the robustness of vision transformers under the supervision of **Prof.** [**Mohammad Hossein Rohban**](http://sharif.ir/~rohban/). 
   Before that, I worked as a **data engineer** at [**Wizeanalytics Startup**](https://www.linkedin.com/company/wizeanalytics/?originalSubdomain=ir) under the supervision
   of **Prof.** [**Hamid R. Rabiee**](http://sharif.edu/~rabiee/), where I was part of the **Machine Learning** team and worked on an AI-driven big data processing 
   platform that establishes methods on the data storage layer and distributed big data processing to facilitate predictive analytics. My research interests are 
@@ -91,6 +91,7 @@ content:
         title: Wizeanalytics Startup
         sub_title: Data Engineer
         caption: August 2020 - March 2021
+        link: https://www.wizeanalytics.com/
         description: | 
           Wizeanalytics works on designing an AI-driven big data processing platform that establishes methods on the data storage layer and 
           distributed big data processing to facilitate predictive analytics. I joined [**Wizeanalytics Startup**](https://www.linkedin.com/company/wizeanalytics/?originalSubdomain=ir) 
@@ -103,6 +104,7 @@ content:
         title: Intelligent Information Solutions Center
         sub_title: Software Developer
         caption: June 2019 - September 2019
+        link: https://www.linkedin.com/company/intelligent-information-solutions-center?trk=public_profile_topcard-current-company
         description: | 
           Intelligent Information Solutions Center works on a website that helps create domestic social networks. It allows companies, academic 
           societies, and other social groups to create custom social networks to serve as alternatives to popular global platforms. I joined the 
@@ -112,7 +114,7 @@ content:
       - layout: left
         title: Sharif University of Technology
         sub_title: Teaching Assistant
-        caption: Februrary 2019 - July 2021
+        caption: September 2020 - July 2021
         description: | 
           I have collaborated as a **teaching assistant** with several
           faculty members of **Computer Engineering Department**. All courses that I have contributed are listed below:
@@ -162,9 +164,7 @@ content:
         # quote: >
         # Short institution or course description (optional)
         description: | 
-          I received my Diploma in Mathematics and Physics from [**Kherad highschool**](https://ir.linkedin.com/company/manzoumeh-kherad-institute),
-          where I was ranked 171th out of 350k students in Iranian nationwide mathematics
-          exam (Konkur).
+          I received my Diploma in Mathematics and Physics from [**Kherad highschool**](https://ir.linkedin.com/company/manzoumeh-kherad-institute).
 
   - title: A Little More About Me
     layout: text
